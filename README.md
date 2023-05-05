@@ -1,2 +1,2 @@
-# Music_store_data_analysis_SQL
-This project is very helpful in analysing music store dataset. The schema consists of 11 tables. This project will help us to boost growth in music store business.
+# Music_store_data_analysiss.
+This project contains Digital Music Store Dataset in the form of 11 tables. Solving the questions using SQL queries will help the digital music store to boost and expand its business in different countries.
