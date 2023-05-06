@@ -3,10 +3,10 @@ This project contains Digital Music Store Dataset in the form of 11 tables. Solv
 
 SQL CONCEPTS APPLIED IN THIS PROJECT :
 
-WHERE Clause
-Aggregate Functions
-GROUP BY
-JOINS
-Subquery
-WINDOW Function
+WHERE Clause,
+Aggregate Functions,
+GROUP BY,
+JOINS,
+Subquery,
+WINDOW Function,
 Common Table Expression (CTE)
